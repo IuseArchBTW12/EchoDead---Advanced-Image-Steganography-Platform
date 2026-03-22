@@ -1,0 +1,13 @@
+# Core dependencies
+Pillow>=10.0.0
+
+# CLI enhancements
+colorama>=0.4.6
+
+# Encryption and security
+cryptography>=41.0.0
+
+# Optional: For specific payloads
+# pynput>=1.7.6  # For keylogger
+# pywin32>=306  # For clipboard monitor (Windows only)
+# psutil>=5.9.0  # For process monitor
