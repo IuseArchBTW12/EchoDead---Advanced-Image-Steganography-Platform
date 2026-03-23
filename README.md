@@ -1506,9 +1506,9 @@ Have ideas? [Submit a feature request](https://github.com/yourusername/EchoDead/
 
 **Created with 💙 for security research and educational purposes**
 
-**EchoDead v2.0** - Hacktivist-grade Steganography for the resistance
+**EchoDead v3.0** - Hacktivist-grade Steganography for the resistance
 
-*Last Updated: January 2024*
+*Last Updated: March 2026*
 
 ---
 
