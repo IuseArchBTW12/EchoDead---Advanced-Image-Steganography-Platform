@@ -72,11 +72,15 @@ python src/main.py workflow vacation.jpg keylogger.py family_photo.jpg --passwor
 - No manual intervention
 
 ### 🚀 **Power Features**
-- 19 ready-to-use payloads
+- 24 ready-to-use payloads (21 Windows + 3 Cross-Platform)
 - Discord webhook exfiltration
 - Payload library system
 - One-command workflows
-- Cross-platform support
+- **Full cross-platform support (Windows, Linux, macOS)**
+- Payload obfuscation (3 levels)
+- Batch processing (multi-threaded)
+- Advanced evasion (VM/Sandbox/AV bypass)
+- Campaign analytics and reporting
 
 </td>
 </tr>
